@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // יצירת מופע חדש של axios עם כתובת ה-API כ-default
 const api = axios.create({
-  baseURL: "http://localhost:5148"
+  baseURL: "mysql://u2hn8nwm2a2rsuop:0XUBSEu6tuNTjSCSnmbq@bzi5sn6ayqf3x9ikieor-mysql.services.clever-cloud.com:3306/bzi5sn6ayqf3x9ikieor"
 });
 
 // הוספת interceptor לשגיאות

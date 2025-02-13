@@ -30,5 +30,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:5148/"
+  "proxy": "mysql://u2hn8nwm2a2rsuop:0XUBSEu6tuNTjSCSnmbq@bzi5sn6ayqf3x9ikieor-mysql.services.clever-cloud.com:3306/bzi5sn6ayqf3x9ikieor"
 }
