@@ -27,11 +27,9 @@ var app = builder.Build();
 app.UseCors("AllowAllOrigin");
 
 
-if (app.Environment.IsDevelopment())
-{
     app.UseSwagger();
     app.UseSwaggerUI();
-}
+
 
 app.MapGet("/", () => "Hello World!");
 

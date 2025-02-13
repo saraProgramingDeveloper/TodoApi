@@ -323,3 +323,4 @@ C:\Users\משתמש חדש\Desktop\תיקיית תכנות\praktikod\project 3\T
 C:\Users\משתמש חדש\Desktop\תיקיית תכנות\praktikod\project 3\TodoApi\obj\Debug\net9.0\TodoApi.pdb
 C:\Users\משתמש חדש\Desktop\תיקיית תכנות\praktikod\project 3\TodoApi\obj\Debug\net9.0\TodoApi.genruntimeconfig.cache
 C:\Users\משתמש חדש\Desktop\תיקיית תכנות\praktikod\project 3\TodoApi\obj\Debug\net9.0\ref\TodoApi.dll
+C:\Users\משתמש חדש\Desktop\תיקיית תכנות\praktikod\project 3\TodoApi\obj\Debug\net9.0\TodoApi.sourcelink.json
